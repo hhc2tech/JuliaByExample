@@ -6,6 +6,7 @@ Julia By Example
 *&copy; Samuel Colvin 2014, 2015, 2018*
 
 Hosted at [samuelcolvin.github.io/JuliaByExample](http://samuelcolvin.github.io/JuliaByExample/).
+          [page](https://juliabyexample.helpmanual.io/).
 
 Unofficial collection of Julia (Julia Lang) examples.
 
